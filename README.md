@@ -1,6 +1,6 @@
 # weatherapp
 
-A new Flutter project.
+This Project is a Simple Local Weather UI
 
 ## Getting Started
 
